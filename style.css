@@ -1,0 +1,23 @@
+body{
+    font-family: Arial;
+    padding:20px;
+}
+
+h1{
+    text-align:center;
+}
+
+nav{
+    text-align:center;
+}
+
+nav a{
+    margin:10px;
+    text-decoration:none;
+}
+
+.card{
+    border:1px solid #ddd;
+    padding:20px;
+    margin-top:20px;
+}
