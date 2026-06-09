@@ -1,23 +1,49 @@
 body{
-    font-family: Arial;
-    padding:20px;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f5f5f5;
 }
 
 h1{
-    text-align:center;
+    text-align: center;
 }
 
 nav{
-    text-align:center;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 nav a{
-    margin:10px;
-    text-decoration:none;
+    margin: 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
 }
 
 .card{
-    border:1px solid #ddd;
-    padding:20px;
-    margin-top:20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: white;
+}
+
+table{
+    margin: auto;
+    border-collapse: collapse;
+    width: 80%;
+    background-color: white;
+}
+
+th, td{
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+}
+
+th{
+    background-color: #dddddd;
+}
+
+p{
+    text-align: center;
 }
