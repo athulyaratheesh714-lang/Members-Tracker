@@ -114,3 +114,7 @@ input, select{
     display: flex;
     gap: 20px;
 }
+title {
+    color: blue;      
+    font-size: 40px;  
+}
