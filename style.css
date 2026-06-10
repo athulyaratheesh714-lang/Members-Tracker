@@ -119,3 +119,21 @@ title {
     font-size: 40px;  
     text-align: center;
 }
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Centers everything */
+    gap: 20px;               /* Space between links */
+    padding: 20px;
+}
+
+.navbar h2 {
+    color: blue;             /* Change title color */
+    margin-right: 30px;
+}
+
+.navbar a {
+    color: black;            /* Link color */
+    text-decoration: none;
+    font-size: 18px;
+}
