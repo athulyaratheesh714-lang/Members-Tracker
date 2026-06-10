@@ -24,7 +24,7 @@ nav a{
     color: white;
     text-decoration: none;
     margin: 20px;
-    font-size: 18px;
+    font-size: 30px;
     font-weight: bold;
     text-align: center;
 }
@@ -97,7 +97,7 @@ input{
     color: white;
 }
 label{
-    color: rgb(10, 10, 10);
+    color: rgb(248, 245, 245);
     font-size: 230px;
     font-weight: bold;
     font-family: Arial, sans-serif;
